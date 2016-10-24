@@ -1,0 +1,15 @@
+{
+  "name": "phantomPdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toPDF.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kanumowa <no@email.com>",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^2.1.0"
+  }
+}
